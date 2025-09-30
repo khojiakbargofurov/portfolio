@@ -90,7 +90,7 @@ const HomePage = () => {
             <Home />
             <About />
             <Projects />
-            <Blog />
+            {/* <Blog /> */}
             <Contact />
         </main>
     );
